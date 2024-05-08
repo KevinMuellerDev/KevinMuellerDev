@@ -1,7 +1,7 @@
 
 
   <h1 align="left">Hi 👋, I'm Kevin Müller, a passionate frontend developer and tech enthusiast from Germany !</h1>
-  <img align="right" align="top" width="400px" src="https://github.com/KevinMuellerDev/KevinMuellerDev/assets/156241738/4791bb97-294f-4f72-a7e1-92d85bc2315d">
+  <img align="right" align="top" width="400px" src="https://github.com/KevinMuellerDev/KevinMuellerDev/assets/156241738/f156c49d-085e-4d73-9915-8c866ef8c849">
   <h3 align="left"></h3>
 
   
@@ -20,10 +20,9 @@
   
 
 
-
-
 <!---
 KevinMuellerDev/KevinMuellerDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Mate Png vectors by Lovepik.com
 --->
 
