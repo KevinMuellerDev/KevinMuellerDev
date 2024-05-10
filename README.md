@@ -4,8 +4,6 @@
   <img align="right" align="top" width="350px" src="https://github.com/KevinMuellerDev/KevinMuellerDev/assets/156241738/f156c49d-085e-4d73-9915-8c866ef8c849">
   <h3 align="left"></h3>
 
-  <br>
-  <br>
 
   - 🌱 I’m currently learning **Angular, TypeScript**
 
@@ -29,6 +27,8 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </p>
+
+  [![Codewars Badge](https://www.codewars.com/users/FenrirDev/badges/large)](https://www.codewars.com/users/FenrirDev)
 
 
 <!---
