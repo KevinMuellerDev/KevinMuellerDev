@@ -3,7 +3,7 @@
   <h1 align="left">Hi 👋, I'm Kevin Müller, a passionate frontend developer and tech enthusiast from Germany !</h1>
   <img align="right" align="top" width="350px" src="https://github.com/KevinMuellerDev/KevinMuellerDev/assets/156241738/f156c49d-085e-4d73-9915-8c866ef8c849">
   <h3 align="left"></h3>
-
+  <br>
 
   - 🌱 I’m currently learning **Angular, TypeScript**
 
