@@ -5,11 +5,11 @@
   <h3 align="left"></h3>
   <br>
 
-  - 🌱 I’m currently learning **Angular, TypeScript**
+  - 🌱 I’m currently working on a **Simple CRM**
 
   - 👨‍💻 All of my projects are available at [www.kevin-mueller-dev.de](www.kevin-mueller-dev.de)
 
-  - 💬 Ask me about **JavaScript, HTML, CSS, Sass, Bootstrap, RAPID**
+  - 💬 Ask me about **JAngular, TypeScript, JavaScript, HTML, CSS, Sass, Bootstrap, RAPID**
 
   - 📫 How to reach me **info@kevin-mueller-dev.de**
 
