@@ -7,7 +7,7 @@
 
   - 🌱 I’m currently working on a **Simple CRM**
 
-  - 👨‍💻 All of my projects are available at [www.kevin-mueller-dev.de](www.kevin-mueller-dev.de)
+  - 👨‍💻 All of my projects are available at [www.kevin-mueller-dev.de](https://www.kevin-mueller-dev.de)
 
   - 💬 Ask me about **Angular, TypeScript, JavaScript, HTML, CSS, Sass, Bootstrap, RAPID**
 
