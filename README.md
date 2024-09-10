@@ -5,7 +5,7 @@
   <h3 align="left"></h3>
   <br>
 
-  - 🌱 I’m currently working on a **Simple CRM**
+  - 🌱 I’m currently working on a **Book Inventory SPA**
 
   - 👨‍💻 All of my projects are available at [www.kevin-mueller-dev.de](https://www.kevin-mueller-dev.de)
 
