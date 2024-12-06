@@ -9,7 +9,7 @@
 
   - 👨‍💻 All of my projects are available at [www.kevin-mueller-dev.de](https://www.kevin-mueller-dev.de)
 
-  - 💬 Ask me about **Angular, TypeScript, JavaScript, HTML, CSS, Sass, Bootstrap, RAPID**
+  - 💬 Ask me about **Angular, TypeScript, JavaScript, Django, Python, HTML, CSS, Sass, Bootstrap, RAPID**
 
   - 📫 How to reach me **info@kevin-mueller-dev.de**
 
