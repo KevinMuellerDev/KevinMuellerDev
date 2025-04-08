@@ -5,7 +5,7 @@
   <h3 align="left"></h3>
   <br>
 
-  - 🌱 I’m currently working on a **Netflix clone called Videoflix*
+  - 🌱 I’m currently working on a *Netflix clone called Videoflix*
 
   - 👨‍💻 All of my projects are available at [www.kevin-mueller-dev.de](https://www.kevin-mueller-dev.de)
 
